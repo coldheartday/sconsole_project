@@ -1,0 +1,18 @@
+﻿  tstring.c
+  tree.c
+  list.c
+  sclog.c
+  schead.c
+  sccsv.c
+  scconf.c
+  cjson.c
+  test_tstring.c
+  test_scconf.c
+  test_json_read.c
+  test_csv.c
+  test_csjon.c
+  test_cjson_write.c
+  test_log.c
+  正在生成代码...
+  sc_console_template.vcxproj -> F:\快盘\sconsole_project\sc_template\x64\Debug\sc_console_template.exe
+  sc_console_template.vcxproj -> F:\快盘\sconsole_project\sc_template\x64\Debug\sc_console_template.pdb (Partial PDB)

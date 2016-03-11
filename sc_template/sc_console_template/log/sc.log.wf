@@ -1,0 +1,4 @@
+[2016-03-07 00:18:35 2000][WARNING][f:\快盘\c_project\sc_console_start\sc_console_start\module\schead\cjson.c:863:cjson_dofile][logid:12][reqip:0.0.0.0][mod:main thread]readend jpath:firefighting_rule.json is error!
+[2016-03-07 00:20:29 41844000][WARNING][f:\快盘\c_project\sc_console_start\sc_console_start\module\schead\cjson.c:925:cjson_detachobject][logid:13][reqip:0.0.0.0][mod:main thread]check param key:firefighting_rule => vlaue is empty.
+[2016-03-07 00:20:29 41844000][WARNING][f:\快盘\c_project\sc_console_start\sc_console_start\module\schead\cjson.c:920:cjson_detachobject][logid:13][reqip:0.0.0.0][mod:main thread]check param is object:00000000, key:key1.
+[2016-03-07 00:20:29 41844000][FATAL][f:\快盘\c_project\sc_console_start\sc_console_start\module\schead\cjson.c:701:cjson_print][logid:13][reqip:0.0.0.0][mod:main thread]item:00000000, p.str = malloc is error!
