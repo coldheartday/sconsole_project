@@ -1,9 +1,0 @@
-[2016-03-07 00:18:35 1000][NOTICE][f:\快盘\c_project\sc_console_start\sc_console_start\module\struct\tstring.c:185:file_malloc_readend][logid:12][reqip:0.0.0.0][mod:main thread]fopen r path = 'firefighting_rule.json' error!
-[2016-03-07 00:18:35 2000][WARNING][f:\快盘\c_project\sc_console_start\sc_console_start\module\schead\cjson.c:863:cjson_dofile][logid:12][reqip:0.0.0.0][mod:main thread]readend jpath:firefighting_rule.json is error!
-[2016-03-07 00:20:16 28532000][NOTICE][f:\快盘\c_project\sc_console_start\sc_console_start\module\struct\tstring.c:156:tstring_appends][logid:13][reqip:0.0.0.0][mod:main thread]check param '!tstr || !str || !*str'
-[2016-03-07 00:20:29 41844000][WARNING][f:\快盘\c_project\sc_console_start\sc_console_start\module\schead\cjson.c:925:cjson_detachobject][logid:13][reqip:0.0.0.0][mod:main thread]check param key:firefighting_rule => vlaue is empty.
-[2016-03-07 00:20:29 41844000][WARNING][f:\快盘\c_project\sc_console_start\sc_console_start\module\schead\cjson.c:920:cjson_detachobject][logid:13][reqip:0.0.0.0][mod:main thread]check param is object:00000000, key:key1.
-[2016-03-07 00:20:29 41844000][FATAL][f:\快盘\c_project\sc_console_start\sc_console_start\module\schead\cjson.c:701:cjson_print][logid:13][reqip:0.0.0.0][mod:main thread]item:00000000, p.str = malloc is error!
-[2016-03-07 00:23:36 1000][NOTICE][f:\快盘\c_project\sc_console_start\sc_console_start\module\struct\tstring.c:156:tstring_appends][logid:14][reqip:0.0.0.0][mod:main thread]check param '!tstr || !str || !*str'
-[2016-03-07 00:27:00 1000][NOTICE][f:\快盘\c_project\sc_console_start\sc_console_start\module\struct\tstring.c:156:tstring_appends][logid:15][reqip:0.0.0.0][mod:main thread]check param '!tstr || !str || !*str'
-[2016-03-07 00:27:16 2000][NOTICE][f:\快盘\c_project\sc_console_start\sc_console_start\module\struct\tstring.c:156:tstring_appends][logid:16][reqip:0.0.0.0][mod:main thread]check param '!tstr || !str || !*str'
